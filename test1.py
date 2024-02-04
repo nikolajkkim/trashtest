@@ -1,1 +1,1 @@
-print("custo no more perm ;(")
+print("tacos tacos")
