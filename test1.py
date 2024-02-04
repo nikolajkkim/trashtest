@@ -1,1 +1,1 @@
-print("custo");
+print("custo no more perm ;(")
